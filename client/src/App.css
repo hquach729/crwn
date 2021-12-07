@@ -1,0 +1,16 @@
+body {
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding: 20px 60px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+/* This will adjust the form input to align with our box size, the padding margin will no affect the border size, it will
+same within the box
+*/
+* {
+	box-sizing: border-box;
+}
